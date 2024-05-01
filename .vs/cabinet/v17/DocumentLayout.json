@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\gestion_specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\gestion_specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\Program.cs",
+              "RelativeDocumentMoniker": "cabinet\\Program.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\Program.cs",
+              "RelativeToolTip": "cabinet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:58:20.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gestion_specialite.cs",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs",
+              "RelativeDocumentMoniker": "cabinet\\gestion_specialite.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs",
+              "RelativeToolTip": "cabinet\\gestion_specialite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:56:52.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gestion_specialite.cs [Design]",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs",
+              "RelativeDocumentMoniker": "cabinet\\gestion_specialite.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs [Design]",
+              "RelativeToolTip": "cabinet\\gestion_specialite.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:55:28.736Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
